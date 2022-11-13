@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		763AA0B328E97CE10060E9A4 /* 2-1.c in Sources */ = {isa = PBXBuildFile; fileRef = 763AA0B228E97CE10060E9A4 /* 2-1.c */; };
+		76597B70292107FE00F1561B /* 9.c in Sources */ = {isa = PBXBuildFile; fileRef = 76597B6F292107FE00F1561B /* 9.c */; };
 		76CDFDA52905656500C8BE5B /* 8장 실습-1.c in Sources */ = {isa = PBXBuildFile; fileRef = 76CDFDA42905656500C8BE5B /* 8장 실습-1.c */; };
 		76CDFDA7290567F700C8BE5B /* 8장 실습-2.c in Sources */ = {isa = PBXBuildFile; fileRef = 76CDFDA6290567F700C8BE5B /* 8장 실습-2.c */; };
 		76CDFDA92905769000C8BE5B /* Bubble_Sort.c in Sources */ = {isa = PBXBuildFile; fileRef = 76CDFDA82905769000C8BE5B /* Bubble_Sort.c */; };
@@ -30,6 +31,7 @@
 
 /* Begin PBXFileReference section */
 		763AA0B228E97CE10060E9A4 /* 2-1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "2-1.c"; sourceTree = "<group>"; };
+		76597B6F292107FE00F1561B /* 9.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 9.c; sourceTree = "<group>"; };
 		76CDFDA42905656500C8BE5B /* 8장 실습-1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "8장 실습-1.c"; sourceTree = "<group>"; };
 		76CDFDA6290567F700C8BE5B /* 8장 실습-2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "8장 실습-2.c"; sourceTree = "<group>"; };
 		76CDFDA82905769000C8BE5B /* Bubble_Sort.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Bubble_Sort.c; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				763AA0B228E97CE10060E9A4 /* 2-1.c */,
 				76CDFDA42905656500C8BE5B /* 8장 실습-1.c */,
 				76CDFDA6290567F700C8BE5B /* 8장 실습-2.c */,
+				76597B6F292107FE00F1561B /* 9.c */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 				76CDFDA52905656500C8BE5B /* 8장 실습-1.c in Sources */,
 				76CDFDA7290567F700C8BE5B /* 8장 실습-2.c in Sources */,
 				763AA0B328E97CE10060E9A4 /* 2-1.c in Sources */,
+				76597B70292107FE00F1561B /* 9.c in Sources */,
 				76DEA30828E02B3E006C3D06 /* 1-1.c in Sources */,
 				76CDFDA92905769000C8BE5B /* Bubble_Sort.c in Sources */,
 			);
