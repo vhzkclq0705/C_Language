@@ -7,7 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		763AA0B328E97CE10060E9A4 /* 2-1.c in Sources */ = {isa = PBXBuildFile; fileRef = 763AA0B228E97CE10060E9A4 /* 2-1.c */; };
+		76CDFDA52905656500C8BE5B /* 8장 실습-1.c in Sources */ = {isa = PBXBuildFile; fileRef = 76CDFDA42905656500C8BE5B /* 8장 실습-1.c */; };
+		76CDFDA7290567F700C8BE5B /* 8장 실습-2.c in Sources */ = {isa = PBXBuildFile; fileRef = 76CDFDA6290567F700C8BE5B /* 8장 실습-2.c */; };
+		76CDFDA92905769000C8BE5B /* Bubble_Sort.c in Sources */ = {isa = PBXBuildFile; fileRef = 76CDFDA82905769000C8BE5B /* Bubble_Sort.c */; };
 		76DEA30028E02AD9006C3D06 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 76DEA2FF28E02AD9006C3D06 /* main.c */; };
+		76DEA30828E02B3E006C3D06 /* 1-1.c in Sources */ = {isa = PBXBuildFile; fileRef = 76DEA30728E02B3E006C3D06 /* 1-1.c */; };
+		76DEA30B28E02D10006C3D06 /* 1-2.c in Sources */ = {isa = PBXBuildFile; fileRef = 76DEA30A28E02D10006C3D06 /* 1-2.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +29,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		763AA0B228E97CE10060E9A4 /* 2-1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "2-1.c"; sourceTree = "<group>"; };
+		76CDFDA42905656500C8BE5B /* 8장 실습-1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "8장 실습-1.c"; sourceTree = "<group>"; };
+		76CDFDA6290567F700C8BE5B /* 8장 실습-2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "8장 실습-2.c"; sourceTree = "<group>"; };
+		76CDFDA82905769000C8BE5B /* Bubble_Sort.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Bubble_Sort.c; sourceTree = "<group>"; };
 		76DEA2FC28E02AD9006C3D06 /* Practice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Practice; sourceTree = BUILT_PRODUCTS_DIR; };
 		76DEA2FF28E02AD9006C3D06 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		76DEA30728E02B3E006C3D06 /* 1-1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "1-1.c"; sourceTree = "<group>"; };
+		76DEA30A28E02D10006C3D06 /* 1-2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "1-2.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +70,12 @@
 			isa = PBXGroup;
 			children = (
 				76DEA2FF28E02AD9006C3D06 /* main.c */,
+				76CDFDA82905769000C8BE5B /* Bubble_Sort.c */,
+				76DEA30728E02B3E006C3D06 /* 1-1.c */,
+				76DEA30A28E02D10006C3D06 /* 1-2.c */,
+				763AA0B228E97CE10060E9A4 /* 2-1.c */,
+				76CDFDA42905656500C8BE5B /* 8장 실습-1.c */,
+				76CDFDA6290567F700C8BE5B /* 8장 실습-2.c */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -119,7 +137,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				76DEA30B28E02D10006C3D06 /* 1-2.c in Sources */,
 				76DEA30028E02AD9006C3D06 /* main.c in Sources */,
+				76CDFDA52905656500C8BE5B /* 8장 실습-1.c in Sources */,
+				76CDFDA7290567F700C8BE5B /* 8장 실습-2.c in Sources */,
+				763AA0B328E97CE10060E9A4 /* 2-1.c in Sources */,
+				76DEA30828E02B3E006C3D06 /* 1-1.c in Sources */,
+				76CDFDA92905769000C8BE5B /* Bubble_Sort.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
