@@ -8,7 +8,7 @@
 #include<stdio.h>
 #include<string.h>
 
-int main() {
+int ten() {
     char sentence[100];
     char same[100];
     
@@ -31,4 +31,6 @@ int main() {
     } else {
         printf("Incorrect!!\n");
     }
+    
+    return 0;
 }
